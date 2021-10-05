@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/bittu/sqflite_database/BuildConfig.java
+ com.bittu.sqflite_database.BuildConfig

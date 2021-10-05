@@ -1,0 +1,4 @@
+#Tue Oct 05 16:02:00 IST 2021
+base.0=/Users/ios/Desktop/Sample R&D/sqflite_database/SubModules/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
